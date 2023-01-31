@@ -16,6 +16,7 @@ For details of this python package, please refer to the API [here](https://deep-
 - For information on how to obtain FEGS features please refer to [FEGS](https://github.com/Martinyao1998/GRDF/blob/main/Code%20for%20extracting%20features/FEGS.rar)
 - For the code to obtain evolutionary information please refer to [BLOSUM62.ipynb](https://github.com/Martinyao1998/GRDF/blob/main/Code%20for%20extracting%20features/BLOSUM62.ipynb)
 - For the code to obtain binary profile please refer to: [Binary Feature.ipynb](https://github.com/Martinyao1998/GRDF/blob/main/Code%20for%20extracting%20features/Binary%20Feature.ipynb)
+
 After extracting these features, you can use them to build a deep forest-based model to predict the ACP. You can refer to the following notebooks.
 
 1. [Dataset Statistics.ipynb](https://github.com/Martinyao1998/GRDF/blob/main/Dataset%20Statistics.ipynb "Dataset Statistics.ipynb") is a code example allows you to plot the length distribution of peptide sequences and their mean amino acids composition (Mean AAC).
